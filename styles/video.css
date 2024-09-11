@@ -9,7 +9,7 @@
   font-size: 14px;
   font-weight: 500;
   line-height: 20px;
-  margin-bottom: 12px;
+  margin-bottom: 10px;
 }
 .channel-picture{
   display: inline-block;
@@ -21,12 +21,13 @@
   width: 200px;
 }
 .profile-picture{
-  width: 40px;
+  width: 36px;
   border-radius: 50px;
 }
 .thumbnail-row{
-  margin-bottom: 12px;
+  margin-bottom: 8px;
   position: relative;
+  margin-bottom: 12px;
 }
 .video-time{
   background-color: rgba(0, 0, 0, 0.70);
